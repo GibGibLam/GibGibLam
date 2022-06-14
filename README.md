@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GibGibLam
-- 👀 I’m interested in learning anything IT related as I am just starting out.
-- 🌱 I’m currently learning Java, HTML, CSS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, My name is Gibson Lam --> @GibGibLam
+- 👀 I’m interested in learning anything IT related as I am just starting out since June 2021.
+- 🌱 I’m currently learning Java, Python, Groovy, HTML, CSS.
+- 💞️ I’m looking to collaborate on any projects that provides me with learning opportunity. 
+- 📫 
 
 <!---
 GibGibLam/GibGibLam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
